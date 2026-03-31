@@ -42,7 +42,7 @@ export default function Home() {
       <main className="min-h-screen grid place-items-center p-5">
         <div className="w-full max-w-[680px] border border-white/15 bg-[rgba(12,20,38,0.7)] backdrop-blur-sm rounded-[18px] p-6">
           <p className="inline-block m-0 text-xs tracking-[0.08em] uppercase text-[#9fc2ff]">
-            Loading mini-app…
+            Loading mini-app…..
           </p>
         </div>
       </main>
