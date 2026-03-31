@@ -9,7 +9,7 @@ export const minikitConfig = {
   miniapp: {
     version: "1",
     name: "Chonara",
-    subtitle: "Escape through collapsing timelines",
+    subtitle: "Endless run!",
     description: "Escape through collapsing timelines",
     screenshotUrls: ["https://chronara-three.vercel.app/image.png"],
     iconUrl: "https://chronara-three.vercel.app/image.png",
