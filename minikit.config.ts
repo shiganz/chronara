@@ -18,7 +18,7 @@ export const minikitConfig = {
     homeUrl: ROOT_URL,
     webhookUrl: "https://chronara-three.vercel.app/api/webhook",
     primaryCategory: "games",
-    tags: ["adventure", "game", "miniapp", ""],
+    tags: ["adventure", "game", "miniapp"],
     heroImageUrl: "https://chronara-three.vercel.app/image.png",
     tagline: "Play Endlessly!",
     ogTitle: "Chonara",
